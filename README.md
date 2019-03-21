@@ -91,10 +91,10 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 ------------------
 #TECHNOLOGIES USED
 ------
-*Javascript
-*Nodejs
-*Node packages:
-    *Node-Spotify-API
-    *Moment
-    *DotEnv
-    *Axios
+* Javascript
+* Nodejs
+* Node packages:
+    * Node-Spotify-API
+    * Moment
+    * DotEnv
+    * Axios
