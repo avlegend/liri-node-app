@@ -35,7 +35,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     * Venue location
     * Date of event (using moment format)
 
-    ![Image of artist/band] (/desktop/concert-this.png)
+    ![Image](/desktop/concert-this.png)
     
 
     1. **Example 2:** Run the spotify-this-song command
