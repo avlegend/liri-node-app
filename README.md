@@ -85,3 +85,16 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     
     
     <img width="609" alt="Do-what-it-says" src="https://user-images.githubusercontent.com/47486942/54732262-17c89900-4b50-11e9-83eb-3489ab332b3b.png">
+    
+    
+------------------
+------------------
+#TECHNOLOGIES USED
+------
+*Javascript
+*Nodejs
+*Node packages:
+    *Node-Spotify-API
+    *Moment
+    *DotEnv
+    *Axios
