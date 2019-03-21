@@ -116,6 +116,7 @@ function movieData(queryMovie) {
     axios.get(queryUrl)
         .then(function (response) {
             //console.log(response)
+            console.log("--------------------")
             console.log("Title: " + response.data.Title)
             console.log("Year: " + response.data.Year)
             console.log("IMDB Rating: " + response.data.imdbRating)
@@ -124,6 +125,7 @@ function movieData(queryMovie) {
             console.log("Language: " + response.data.Language)
             console.log("Plot: " + response.data.Plot)
             console.log("Actors: " + response.data.Actors)
+            console.log("--------------------")
         }).catch(function (err) {
             console.log(err);
         });
