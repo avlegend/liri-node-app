@@ -1,4 +1,4 @@
-# liri-node-app
+# liri-node-app :robot:
 
 __Creator:__ Andres Valdes 
 
@@ -8,13 +8,13 @@ __Created on__: March 20th 2019
 
 LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives back data. The user has the option of using four commands (listed below) in conjuntion with specific parameters associated with the commands. The Commands are:
 
-* concert-this
+* concert-this   :tada:
 
-* spotify-this-song
+* spotify-this-song   :headphones:
 
-* movie-this
+* movie-this   :film_projector:
 
-* do-what-it-says
+* do-what-it-says   :ghost:
 ---------------------------------------------------------
 
 #HOW TO USE LIRI
