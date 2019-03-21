@@ -27,9 +27,13 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 1. Enter a command from above
     1. **Example 1:** Run the concert-this command
+    
+    
     ```
     node liri.js concert-this <name of artist or band>
     ```
+    
+    
     Output will display:
     * Name of venue
     * Venue location
@@ -41,9 +45,13 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     
 
     1. **Example 2:** Run the spotify-this-song command
+    
+    
     ```
     node liri.js spotify-this-song '<song name here>'
     ```
+    
+    
     Output will display:
     * Artist(s)
     * The song's name
@@ -55,6 +63,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     
 
     1. **Example 3:** Run the movie-this command
+    
 
     ```
     node liri.js movie-this '<movie name here>'
