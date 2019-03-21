@@ -38,6 +38,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     
     <img width="705" alt="concert-this" src="https://user-images.githubusercontent.com/47486942/54732345-7c83f380-4b50-11e9-88de-8890a17a59f5.png">
     
+    
 
     1. **Example 2:** Run the spotify-this-song command
     ```
@@ -81,5 +82,6 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     ```
 
     Output will display what is written in the random.txt file
+    
     
     <img width="609" alt="Do-what-it-says" src="https://user-images.githubusercontent.com/47486942/54732262-17c89900-4b50-11e9-83eb-3489ab332b3b.png">
