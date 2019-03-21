@@ -35,7 +35,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     * Venue location
     * Date of event (using moment format)
 
-    ![Image](/desktop/concert-this.png)
+    ![Image](/concert-this.png)
     
 
     1. **Example 2:** Run the spotify-this-song command
@@ -49,6 +49,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     * The album that the song is from
 
     1. **Example 3:** Run the movie-this command
+
     ```
     node liri.js movie-this '<movie name here>'
     ```
